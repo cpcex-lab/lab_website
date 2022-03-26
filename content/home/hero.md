@@ -11,7 +11,7 @@ cta_alt:
   label: Ask a question
   url: '#contact'
 cta_note:
- 
+
 design:
   background:
     gradient_end: '#EDF4EF'
@@ -21,5 +21,4 @@ advanced:
   css_class: fullscreen
 ---
 
-**O Laboratório de Ciência Política Computacional e Experimental (lab_cpcex)** desenvolve pesquisas de ciência política e projetos aplicados com métodos experimentais, computacionais, estatísticos e da ciência da computacao.
-
+**O Laboratório de Ciência Política Computacional e Experimental (lab_cpcex)** desenvolve pesquisas em Ciência Política e em projetos aplicados com métodos experimentais, computacionais, estatísticos e da Ciência da Computação.

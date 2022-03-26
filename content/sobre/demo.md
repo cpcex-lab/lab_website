@@ -28,9 +28,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-**O Laboratório de Ciência Política Computacional e Experimental (lab_cpcex)** desenvolve pesquisas de ciência política e projetos aplicados com métodos experimentais, computacionais, estatísticos e da ciência da computacao.
+**O Laboratório de Ciência Política Computacional e Experimental (lab_cpcex)** desenvolve pesquisas em Ciência Política e em projetos aplicados com métodos experimentais, computacionais, estatísticos e da Ciência da Computação.
 
-The Experimental and Computational Political Science Lab (`lab_cpcex`) develops political science research and applied projects with intense experimental, computer science, and statistical methods. The `lab_cpcex` has three main objectives:
+The Experimental and Computational Political Science Lab (`lab_cpcex`) develops Political Science research and applied projects with intense experimental, computer science, and statistical methods. The `lab_cpcex` has three main objectives:
 
 1. Answer political science research questions that causal and prediction methods can tackle.
 2. Apply computational approaches to environmental, and human development projects, and public policy analysis.
