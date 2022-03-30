@@ -8,7 +8,7 @@ cta:
   label: '**Sobre**'
   url: sobre/
 cta_alt:
-  label: Ask a question
+  label: Contato
   url: '#contact'
 cta_note:
 
