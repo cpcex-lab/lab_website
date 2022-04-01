@@ -5,7 +5,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Ciência da Computacao
+- Ciência da Computação
 organizations:
 - name: UFPE
   url: 
