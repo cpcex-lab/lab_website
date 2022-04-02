@@ -37,6 +37,9 @@ social:
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/1274106232543268
+- icon: briefcase
+  icon-pack: fa
+  link: https://cv-renata-cavalcanti.netlify.app
 superuser: true
 user_groups:
  - Pesquisadores
