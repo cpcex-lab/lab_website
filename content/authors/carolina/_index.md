@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Mestranda em Ciência Política e especialista em Análise de Dados e Pensamento Político
+role:  Especialista em Análise de Dados e Pensamento Político e Mestranda em Ciência Política (UFPE)
 social:
 - icon: github
   icon_pack: fab

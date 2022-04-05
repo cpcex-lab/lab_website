@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Mestre em Políticas Públicas e Doutoranda em Ciência Política
+role: Mestre em Políticas Públicas e Doutoranda em Ciência Política (UFPE)
 social:
 - icon: lattes
   icon_pack: ai

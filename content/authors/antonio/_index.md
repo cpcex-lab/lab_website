@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Doutorando em Ciência Política pela UFPE
+role: Doutorando em Ciência Política (UFPE)
 social:
 - icon: github
   icon_pack: fab

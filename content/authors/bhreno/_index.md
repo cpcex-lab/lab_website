@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Graduado, Mestre e Doutorando em Ciência Política pela UFPE
+role: Graduado, Mestre e Doutorando em Ciência Política (UFPE)
 social:
 - icon: lattes
   icon_pack: ai
