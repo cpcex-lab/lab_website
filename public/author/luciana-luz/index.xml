@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luciana Luz | cpcex_lab</title>
-    <link>https://academic-demo.netlify.app/author/luciana-luz/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/luciana-luz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpcex-lab.netlify.app/author/luciana-luz/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/luciana-luz/index.xml" rel="self" type="application/rss+xml" />
     <description>Luciana Luz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/luciana-luz/avatar_huec30380d4772c00148ea7e48da860e88_205066_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://cpcex-lab.netlify.app/author/luciana-luz/avatar_huec30380d4772c00148ea7e48da860e88_205066_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Luciana Luz</title>
-      <link>https://academic-demo.netlify.app/author/luciana-luz/</link>
+      <link>https://cpcex-lab.netlify.app/author/luciana-luz/</link>
     </image>
     
   </channel>

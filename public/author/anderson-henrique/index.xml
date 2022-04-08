@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anderson Henrique | cpcex_lab</title>
-    <link>https://academic-demo.netlify.app/author/anderson-henrique/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/anderson-henrique/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpcex-lab.netlify.app/author/anderson-henrique/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/anderson-henrique/index.xml" rel="self" type="application/rss+xml" />
     <description>Anderson Henrique</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/anderson-henrique/avatar_hu9c67c44a63ca383dd44b187edb673af7_200003_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://cpcex-lab.netlify.app/author/anderson-henrique/avatar_hu9c67c44a63ca383dd44b187edb673af7_200003_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Anderson Henrique</title>
-      <link>https://academic-demo.netlify.app/author/anderson-henrique/</link>
+      <link>https://cpcex-lab.netlify.app/author/anderson-henrique/</link>
     </image>
     
   </channel>

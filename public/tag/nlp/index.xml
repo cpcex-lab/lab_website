@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP | cpcex_lab</title>
-    <link>https://academic-demo.netlify.app/tag/nlp/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpcex-lab.netlify.app/tag/nlp/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>NLP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hu751657b3f06192e22fd796cc78da6b53_65254_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cpcex-lab.netlify.app/media/icon_hu751657b3f06192e22fd796cc78da6b53_65254_512x512_fill_lanczos_center_3.png</url>
       <title>NLP</title>
-      <link>https://academic-demo.netlify.app/tag/nlp/</link>
+      <link>https://cpcex-lab.netlify.app/tag/nlp/</link>
     </image>
     
     <item>
       <title>Txt4Cs</title>
-      <link>https://academic-demo.netlify.app/project/internal-project/</link>
+      <link>https://cpcex-lab.netlify.app/project/internal-project/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project/</guid>
+      <guid>https://cpcex-lab.netlify.app/project/internal-project/</guid>
       <description>&lt;p&gt;O principal objetivo do livro é ser tutorial prático de uso e aplicação de técnicas e métodos de análise automatizada de conteúdo na língua portuguesa através da linguagem R .&lt;/p&gt;
 &lt;p&gt;A partir da produção de material para o curso Text as Data: análise automatizada de conteúdo ministrado no MQ-UFMG em 2019 por Davi Moreira e no artigo que publicado em coautoria com Maurício Izumi (Izumi and Moreira 2018), esse livro tem como propósito difundir nas ciências sociais e humanidades técnicas e métodos de análise automatizada de conteúdo usando a linguagem R.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;O livro é de autoria de Davi Moreira, organizado por Mônica Rocabado.&lt;/em&gt;

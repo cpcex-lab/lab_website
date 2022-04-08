@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antônio Pires | cpcex_lab</title>
-    <link>https://academic-demo.netlify.app/author/antonio-pires/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/antonio-pires/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpcex-lab.netlify.app/author/antonio-pires/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/antonio-pires/index.xml" rel="self" type="application/rss+xml" />
     <description>Antônio Pires</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/antonio-pires/avatar_hu58dbb427cb6d4a014f4e8388074f60b9_157462_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://cpcex-lab.netlify.app/author/antonio-pires/avatar_hu58dbb427cb6d4a014f4e8388074f60b9_157462_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Antônio Pires</title>
-      <link>https://academic-demo.netlify.app/author/antonio-pires/</link>
+      <link>https://cpcex-lab.netlify.app/author/antonio-pires/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davi Moreira | cpcex_lab</title>
-    <link>https://academic-demo.netlify.app/author/davi-moreira/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/davi-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpcex-lab.netlify.app/author/davi-moreira/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/davi-moreira/index.xml" rel="self" type="application/rss+xml" />
     <description>Davi Moreira</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/davi-moreira/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://cpcex-lab.netlify.app/author/davi-moreira/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Davi Moreira</title>
-      <link>https://academic-demo.netlify.app/author/davi-moreira/</link>
+      <link>https://cpcex-lab.netlify.app/author/davi-moreira/</link>
     </image>
     
   </channel>
