@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: CPCEX_LAB
+title: cpcex_lab
 subtitle: Laboratório de Ciência Política Computacional e Experimental
 
 design:
@@ -28,10 +28,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-**Laboratório de Ciência Política Computacional e Experimental**  (`@cpcex_lab`) desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos experimentais e computacionais. O `@cpcex_lab` tem 3 objetivos:
+O **Laboratório de Ciência Política Computacional e Experimental**  (`@cpcex_lab`) desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos experimentais e computacionais. O `@cpcex_lab` tem 3 objetivos:
 
-1. Responder a perguntas científicas em CP e RI que métodos de inferência causal e de aprendizagem computacional podem solucionar;
+1. Responder a perguntas científicas em Ciência Política e Relações Internacionais que métodos de inferência causal e de aprendizagem computacional podem solucionar;
 
-2. Aplicar abordagens computacionais e experimentais a projetos ambientais, de representação política, de desenvolvimento humano, transparência e políticas públicas;
+2. Aplicar abordagens computacionais e experimentais a projetos ambientais, de representação política, de desenvolvimento humano, transparência e em políticas públicas;
 
 3. Produzir e divulgar cursos e materiais didáticos relacionados à área;
