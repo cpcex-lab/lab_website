@@ -10,7 +10,7 @@ lastMod: "2019-09-05T00:00:00Z"
 projects: []
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
-tags: []
+tags:
 title: Display Jupyter Notebooks with Academic
 ---
 

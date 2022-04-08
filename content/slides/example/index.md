@@ -6,7 +6,7 @@ slides:
   highlight_style: dracula
   theme: black
 summary: An introduction to using Wowchemy's Slides feature.
-tags: []
+tags: 
 title: Slides
 ---
 
