@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhreno Vieira | cpcex_lab</title>
+    <link>https://academic-demo.netlify.app/author/bhreno-vieira/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/bhreno-vieira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bhreno Vieira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/bhreno-vieira/avatar_hu7d9cbbc6c676e704b930ad2e1e059d28_124652_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bhreno Vieira</title>
+      <link>https://academic-demo.netlify.app/author/bhreno-vieira/</link>
+    </image>
+    
+  </channel>
+</rss>

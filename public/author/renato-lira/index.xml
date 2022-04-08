@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renato Lira | cpcex_lab</title>
+    <link>https://academic-demo.netlify.app/author/renato-lira/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/renato-lira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renato Lira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/renato-lira/avatar_hu44a24d3696924615794599657c76e0de_328997_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Renato Lira</title>
+      <link>https://academic-demo.netlify.app/author/renato-lira/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Júlia Pastick | cpcex_lab</title>
+    <link>https://academic-demo.netlify.app/author/julia-pastick/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/julia-pastick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Júlia Pastick</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/julia-pastick/avatar_hu9fdbef3d733c56da9b7c868c311c77e2_1692771_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Júlia Pastick</title>
+      <link>https://academic-demo.netlify.app/author/julia-pastick/</link>
+    </image>
+    
+  </channel>
+</rss>
