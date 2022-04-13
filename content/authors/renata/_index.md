@@ -51,5 +51,3 @@ Bacharel, Mestre e doutoranda em Ciência Política pela Universidade Federal de
 Gosto bastante de realizar Análise de Dados na linguagem R e sei um pouco de Python. Atualmente faço parte do Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex). Já realizei trabalhos voluntários no Projeto Vamos Juntas e na ONG Elas no Poder.
 
 
-{{< icon name="earth-americas" pack="fas" >}} Confira meu {{< staticref "renatacavalcanti.com" "newtab" >}}site{{< /staticref >}}.
-
