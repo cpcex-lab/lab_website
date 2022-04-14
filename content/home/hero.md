@@ -21,4 +21,4 @@ advanced:
   css_class: fullscreen
 ---
 
-O **Laboratório de Ciência Política Computacional e Experimental**  (`@cpcex_lab`) desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos computacionais e experimentais.
+O **Laboratório de Ciência Política Computacional e Experimental** desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos computacionais e experimentais.
