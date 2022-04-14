@@ -1,6 +1,8 @@
 ---
 date: "2022-03-30"
 external_link:
+authors: 
+ - admin
 image:
   caption: 
   focal_point: Smart
