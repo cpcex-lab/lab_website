@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: @cpcex_lab
+title: cpcex_lab
 hero_media: hero-academic.png
 cta:
   label: '**Sobre**'
