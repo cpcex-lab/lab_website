@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: christopher-burns-Kj2SaNHG-hg-unsplash.jpg
+    image: ai-technology-brain-background-vector-digital-transformation-concept_53876-117820.webp
     image_darken: 1.0
     image_parallax: true
     image_position: center
