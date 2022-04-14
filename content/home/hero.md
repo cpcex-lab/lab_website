@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 9
 title: 
 hero_media: hero-academic.png
 cta:
