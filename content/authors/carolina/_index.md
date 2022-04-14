@@ -38,5 +38,5 @@ title: Carolina Dolleans
 
 Mestranda em Ciência Política pela Universidade Federal de Pernambuco. Possuo uma Licence de Droit, Économie, Gestion, Mention Science Politique na Université Paris Nanterre (2018). 
 
-Sou membro associada da Associação Brasileira de Ciência Política (ABCP). Também sou membro do grupo de pesquisa Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex) da Universidade Federal de Pernambuco e do grupo de pesquisa Direitas, História e Memória, da Universidade Federal de Juiz de Fora. Sou especialista em Análise de Dados e Pensamento Político. 
+Sou membro associada da Associação Brasileira de Ciência Política (ABCP). Também sou membro do grupo de pesquisa Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) da Universidade Federal de Pernambuco e do grupo de pesquisa Direitas, História e Memória, da Universidade Federal de Juiz de Fora. Sou especialista em Análise de Dados e Pensamento Político. 
 

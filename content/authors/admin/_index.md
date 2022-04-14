@@ -22,15 +22,15 @@ social:
   link: https://twitter.com/cpcex_lab
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=dS9bbdMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cpcex-lab
 - icon: lattes
   icon_pack: ai
   link: http://dgp.cnpq.br/dgp/espelhogrupo/4308174162874490
 superuser: true
-title: Lab CPCEX
+title: cpcex_lab
 ---
  
 Linha de pesquisa: Aprendizado de Máquina e Mineração de Dados para Processamento de Linguagem Natural.

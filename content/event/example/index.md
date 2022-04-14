@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/DiogoFerrari
-location: Youtube do lab cpcex
+location: Youtube do cpcex_lab
 projects:
 - Seminários
 publishDate: "2022-04-11T14:00:00Z"

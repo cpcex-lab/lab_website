@@ -32,4 +32,4 @@ title: Arthur Lira
 
 Estudante de Ciência Política na Universidade Federal de Pernambuco (UFPE), fui bolsista de iniciação científica pelo CNPq e estagiário na Assembleia Legislativa do Estado de Pernambuco. 
 
-Sou membro do Grupo de Pesquisa Instituições, Política e Governo (DCP/UFPE) e do Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex). Sou monitor das disciplinas de Métodos Quantitativos da graduação.
+Sou membro do Grupo de Pesquisa Instituições, Política e Governo (DCP/UFPE) e do Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab). Sou monitor das disciplinas de Métodos Quantitativos da graduação.

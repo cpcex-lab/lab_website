@@ -48,6 +48,6 @@ title: Renata Cavalcanti
 
 Bacharel, Mestre e doutoranda em Ciência Política pela Universidade Federal de Pernambuco (UFPE).
 
-Gosto bastante de realizar Análise de Dados na linguagem R e sei um pouco de Python. Atualmente faço parte do Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex). Já realizei trabalhos voluntários no Projeto Vamos Juntas e na ONG Elas no Poder.
+Gosto bastante de realizar Análise de Dados na linguagem R e sei um pouco de Python. Atualmente faço parte do Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab). Já realizei trabalhos voluntários no Projeto Vamos Juntas e na ONG Elas no Poder.
 
 
