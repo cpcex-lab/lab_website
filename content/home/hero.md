@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: cpcex_lab
+title: 
 hero_media: hero-academic.png
 cta:
   label: '**Sobre**'
@@ -21,4 +21,4 @@ advanced:
   css_class: fullscreen
 ---
 
-O **Laboratório de Ciência Política Computacional e Experimental**  (`@cpcex_lab`) desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos experimentais e computacionais.
+O **Laboratório de Ciência Política Computacional e Experimental**  (`@cpcex_lab`) desenvolve projetos de pesquisa científica e projetos aplicados em Ciência Política e Relações Internacionais com uso intensivo de métodos computacionais e experimentais.
