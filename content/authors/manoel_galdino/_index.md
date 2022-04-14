@@ -1,5 +1,5 @@
 ---
-bio: Political science, methodology, data science, text as data, and AI
+bio: Political science, methodology, data science
   matter.
 education:
   courses:
