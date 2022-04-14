@@ -1,45 +1,46 @@
 ---
-bio: Political science, methodology, data science
+bio: Political science, methodology, data science, text as data, and AI
   matter.
 education:
   courses:
-  - course: Ph.D. Political Science
-    institution: New York University
-    year: 2020
+  - course: Doutorado em Ciência Política
+    institution: Universidade de São Paulo, USP
+    year: 2011
   - course: Mestrado em Ciência Política
     institution: Universidade de São Paulo, USP
-    year: 2009
-  - course: Graduação em Ciências Sociais
+    year: 2007
+  - course: Graduação em Economia
     institution: Universidade de São Paulo, USP
-    year: 2006
+    year: 2003
 email: ""
 highlight_name: true
 interests:
-- Comparative Politics
+- Political Methodology
+- Neural politics
 organizations:
-- name: Quantitative Theory and Methods Department at Emory University
-  url: https://umbertomig.com/
-role:  Visiting Assistant Professor
+- name: Transparência Brasil
+  url: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
+role:  Diretor-Executivo
 social:
 - display:
     header: false
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/umbertomig
+  link: https://twitter.com/mgaldino
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=0bmINk4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/umbertomig
+  link: 
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/9398710384205803
 superuser: true
 user_groups:
  - Pesquisadores, Ph.D.
-title: Umberto Mignozzetti
+title: Manoel Galdino
 ---
 
-I am a Visiting Assistant Professor in the Quantitative Theory and Methods Department at Emory University. I use comparative politics and political economy tools, with a regional focus in Latin America, to investigate how to improve public goods provision in developing democracies. My research combines formal modeling, experiments, elite and popular surveys, and archival research. 
+Diretor-Executivo da Transparência Brasil. Formado em economia e doutor em ciência política pela Universidade de São Paulo. Cientista de dados, foi gerente de analytics e inovação em uma agência de marketing e data leader em uma multinacional no Brasil.

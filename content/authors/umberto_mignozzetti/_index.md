@@ -1,46 +1,45 @@
 ---
-bio: Political science, methodology, data science, text as data, and AI
+bio: Political science, methodology, data science
   matter.
 education:
   courses:
-  - course: Doutorado em Ciência Política
-    institution: Universidade de São Paulo, USP
-    year: 2011
+  - course: Ph.D. Political Science
+    institution: New York University
+    year: 2020
   - course: Mestrado em Ciência Política
     institution: Universidade de São Paulo, USP
-    year: 2007
-  - course: Graduação em Economia
+    year: 2009
+  - course: Graduação em Ciências Sociais
     institution: Universidade de São Paulo, USP
-    year: 2003
+    year: 2006
 email: ""
 highlight_name: true
 interests:
-- Political Methodology
-- Neural politics
+- Comparative Politics
 organizations:
-- name: Transparência Brasil
-  url: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
-role:  Diretor-Executivo
+- name: Quantitative Theory and Methods Department at Emory University
+  url: https://umbertomig.com/
+role:  Visiting Assistant Professor
 social:
 - display:
     header: false
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/mgaldino
+  link: https://twitter.com/umbertomig
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=0bmINk4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/umbertomig
 - icon: lattes
   icon_pack: ai
   link: http://lattes.cnpq.br/9398710384205803
 superuser: true
 user_groups:
  - Pesquisadores, Ph.D.
-title: Manoel Galdino
+title: Umberto Mignozzetti
 ---
 
-Diretor-Executivo da Transparência Brasil. Formado em economia e doutor em ciência política pela Universidade de São Paulo. Cientista de dados, foi gerente de analytics e inovação em uma agência de marketing e data leader em uma multinacional no Brasil.
+I am a Visiting Assistant Professor in the Quantitative Theory and Methods Department at Emory University. I use comparative politics and political economy tools, with a regional focus in Latin America, to investigate how to improve public goods provision in developing democracies. My research combines formal modeling, experiments, elite and popular surveys, and archival research. 
