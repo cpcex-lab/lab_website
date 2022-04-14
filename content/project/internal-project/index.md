@@ -3,6 +3,8 @@ date: "2022-03-30"
 external_link:
 authors: 
  - admin
+ - davi
+ - monica
 image:
   caption: 
   focal_point: Smart
@@ -11,7 +13,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/txt4cs
-slides: example
+slides:
 summary: Texto como Dado para Ciências Sociais.
 tags:
 - NLP

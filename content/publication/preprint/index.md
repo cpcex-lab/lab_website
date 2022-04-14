@@ -8,6 +8,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 date: "2019-04-07T00:00:00Z"
+draft: true
 doi: ""
 featured: false
 image:
@@ -18,7 +19,6 @@ links:
 - name: Custom Link
   url: http://example.org
 projects:
-- internal-project
 publication: ""
 publication_short: ""
 publication_types:
