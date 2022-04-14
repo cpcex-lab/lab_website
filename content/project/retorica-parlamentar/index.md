@@ -18,7 +18,7 @@ summary: Retórica Parlamentar
 tags:
 - NLP
 - text-as-data
-title: txt4cs
+title: Retórica Parlamentar
 url_code: "https://luiscarli.com/2013/11/01/retorica/"
 url_pdf: 
 url_slides: ""
