@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manoel Galdino | cpcex_lab</title>
+    <link>https://cpcex-lab.netlify.app/author/manoel-galdino/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/manoel-galdino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manoel Galdino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cpcex-lab.netlify.app/author/manoel-galdino/avatar_hu4130ae1a2290e9ec7ce49d40b089b3b8_94552_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Manoel Galdino</title>
+      <link>https://cpcex-lab.netlify.app/author/manoel-galdino/</link>
+    </image>
+    
+  </channel>
+</rss>

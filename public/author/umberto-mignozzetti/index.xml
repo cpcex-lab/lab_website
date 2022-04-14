@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Umberto Mignozzetti | cpcex_lab</title>
+    <link>https://cpcex-lab.netlify.app/author/umberto-mignozzetti/</link>
+      <atom:link href="https://cpcex-lab.netlify.app/author/umberto-mignozzetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Umberto Mignozzetti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cpcex-lab.netlify.app/author/umberto-mignozzetti/avatar_hucb71657e5859886d0793538d3a39d60b_352030_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Umberto Mignozzetti</title>
+      <link>https://cpcex-lab.netlify.app/author/umberto-mignozzetti/</link>
+    </image>
+    
+  </channel>
+</rss>

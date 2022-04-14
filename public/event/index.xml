@@ -5,12 +5,22 @@
     <link>https://cpcex-lab.netlify.app/event/</link>
       <atom:link href="https://cpcex-lab.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Eventos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpcex-lab.netlify.app/media/icon_hu751657b3f06192e22fd796cc78da6b53_65254_512x512_fill_lanczos_center_3.png</url>
       <title>Eventos</title>
       <link>https://cpcex-lab.netlify.app/event/</link>
     </image>
+    
+    <item>
+      <title>Ciências Sociais Computacionais com Prof. Dr. Diogo Ferrari</title>
+      <link>https://cpcex-lab.netlify.app/talk/ciencias-sociais-computacionais-com-prof.-dr.-diogo-ferrari/</link>
+      <pubDate>Mon, 11 Apr 2022 14:00:00 +0000</pubDate>
+      <guid>https://cpcex-lab.netlify.app/talk/ciencias-sociais-computacionais-com-prof.-dr.-diogo-ferrari/</guid>
+      <description>&lt;p&gt;Seminário com o Prof. Dr. &lt;a href=&#34;https://www.diogoferrari.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diogo Ferrari&lt;/a&gt; da Universidade da California, Riverside.&lt;/p&gt;
+&lt;p&gt;Vídeo do seminário:&lt;/p&gt;
+&lt;center&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/krtXPzm2c9w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt; </description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,34 @@
     <link>https://cpcex-lab.netlify.app/author/monica-rocabado/</link>
       <atom:link href="https://cpcex-lab.netlify.app/author/monica-rocabado/index.xml" rel="self" type="application/rss+xml" />
     <description>Mônica Rocabado</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpcex-lab.netlify.app/author/monica-rocabado/avatar_hu668c041fcd5b707a07d6b0a2575b82f0_16666_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mônica Rocabado</title>
       <link>https://cpcex-lab.netlify.app/author/monica-rocabado/</link>
     </image>
+    
+    <item>
+      <title>txt4cs</title>
+      <link>https://cpcex-lab.netlify.app/project/retorica-parlamentar/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cpcex-lab.netlify.app/project/retorica-parlamentar/</guid>
+      <description>&lt;p&gt;Visualização da ênfase temática dos deputados brasileiros em seus discursos. Estimamos os 70 principais temas dos mais de 14 mil discursos proferidos por deputados no Pequeno Expediente entre janeiro e outubro de 2013. Para cada tema, destacamos os deputados que mais os enfatizam.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>txt4cs</title>
+      <link>https://cpcex-lab.netlify.app/project/txt4cs/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cpcex-lab.netlify.app/project/txt4cs/</guid>
+      <description>&lt;p&gt;O principal objetivo do livro é ser um tutorial prático de uso e aplicação de técnicas e métodos de análise automatizada de conteúdo na língua portuguesa através da linguagem &lt;code&gt;R&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;A partir da produção de material para o curso Text as Data: análise automatizada de conteúdo ministrado no MQ-UFMG em 2019 por Davi Moreira e no artigo que publicado em coautoria com Maurício Izumi (Izumi and Moreira 2018), esse livro tem como propósito difundir nas ciências sociais e humanidades técnicas e métodos de análise automatizada de conteúdo usando a linguagem &lt;code&gt;R&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;O livro é organizado por Davi Moreira, com sua autoria e também de Mônica Rocabado.&lt;/em&gt;
+Agradecimentos especiais aos organizadores do MQ-UFMG 2019, Manoel Galdino, Rafael Magalhães, Lincon Ribeiro e Umberto Mignozzetti.&lt;/p&gt;
+&lt;p&gt;O livro é escrito com o uso do pacote bookdown (Xie 2019), através do R Markdown e knitr (Xie 2015).&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
