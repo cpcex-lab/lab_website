@@ -18,7 +18,7 @@ subtitle: Laboratório de Ciência Política Computacional e Experimental
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: christopher-burns-Kj2SaNHG-hg-unsplash.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
