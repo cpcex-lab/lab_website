@@ -17,7 +17,7 @@ slides:
 summary: Texto como Dado para Ciências Sociais.
 tags:
 - NLP
-- text as data
+- text-as-data
 title: txt4cs
 url_code: "https://github.com/davi-moreira/txt4cs"
 url_pdf: "https://bookdown.org/davi_moreira/txt4cs/"

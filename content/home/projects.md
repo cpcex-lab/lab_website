@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: NLP
     tag: NLP
+  - name: text-as-data
+    tag: text-as-data
   - name: Outros
     tag: Outros
 
