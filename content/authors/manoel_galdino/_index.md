@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Transparência Brasil
   url: https://scholar.google.com/citations?user=ZO1Z6gYAAAAJ&hl=en
-role:  Diretor-Executivo na Transparência Brasil
+role:  Diretor-Executivo (Transparência Brasil)
 social:
 - display:
     header: false

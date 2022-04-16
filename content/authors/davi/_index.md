@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Universidade Federal de Pernambuco (UFPE)
   url: https://www.ufpe.br/dcp
-role:  Professor do Departamento de Ciência Política na UFPE
+role:  Professor do Departamento de Ciência Política (UFPE)
 social:
 - display:
     header: false

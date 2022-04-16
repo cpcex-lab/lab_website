@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Quantitative Theory and Methods Department at Emory University
   url: https://umbertomig.com/
-role:  Visiting Assistant Professor at Emory University
+role:  Visiting Assistant Professor (Emory University)
 social:
 - display:
     header: false
