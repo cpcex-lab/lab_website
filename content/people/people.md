@@ -19,6 +19,7 @@ content:
     - Pesquisador Líder
     - Pesquisadores, Ph.D.
     - Pesquisadores
+    - Pesquisadores antigos
     - Visitantes
     - Alumni
 design:

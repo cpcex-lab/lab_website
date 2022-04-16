@@ -20,9 +20,9 @@ interests:
 - Political Methodology
 - Text as Data
 organizations:
-- name: Federal University of Pernambuco (UFPE)
+- name: Universidade Federal de Pernambuco (UFPE)
   url: https://www.ufpe.br/dcp
-role:  Professor in the Political Science Department
+role:  Professor do Departamento de Ciência Política
 social:
 - display:
     header: false
