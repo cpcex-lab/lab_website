@@ -46,6 +46,10 @@ contact_links:
     icon_pack: fab
     name: Instagram
     link: 'https://www.instagram.com/cpcex_lab/'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/cpcex-lab/'
   #- icon: keybase
    # icon_pack: fab
     #name: Chat on Keybase
