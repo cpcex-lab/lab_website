@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Pesquisadora e Mestranda em Ciência Política
+role: Pesquisadora e Mestranda em Ciência Política (UFPE)
 social:
 - display:
     header: false
