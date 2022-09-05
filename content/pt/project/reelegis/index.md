@@ -4,6 +4,7 @@ external_link:
 authors:
  - renata
  - bhreno
+ - davi
 image:
   caption:
   focal_point: Smart
@@ -28,7 +29,7 @@ url_slides: ""
 url_video: ""
 ---
 
-O [reeLegis](https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com) é produto do [Laboratório de Ciência Política Computacional e Experimental](https://cpcex-lab.rbind.io/), do [Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)](https://www.ufpe.br/politica). Ele foi integralmente desenvolvido por [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) e [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/), doutorandos do Programa de Pós-graduação em Ciência Política da UFPE.
+O [reeLegis](https://reelegis-reelegis-plataforma-reelegis-app-sz2tnh.streamlitapp.com) é produto do [Laboratório de Ciência Política Computacional e Experimental](https://cpcex-lab.rbind.io/), do [Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE)](https://www.ufpe.br/politica). Ele foi integralmente desenvolvido por [Renata Cavalcanti](https://cpcex-lab.rbind.io/author/renata-cavalcanti/) e [Bhreno Vieira](https://cpcex-lab.rbind.io/author/bhreno-vieira/), doutorandos do Programa de Pós-graduação em Ciência Política da UFPE e supervisionado pelo Prof. Dr. [Davi Moreira](https://cpcex-lab.rbind.io/author/davi-moreira/).
 
 A plataforma permite comparar a atuação dos parlamentares que buscam a reeleição ao cargo de Deputado/a Federal e foi feita a partir do uso de aprendizagem computacional.
 
