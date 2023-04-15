@@ -1,55 +1,32 @@
 ---
-bio: Meus interesses de pesquisa incluem estudos legislativos, opinião pública, gênero, análise de dados e programação.
+bio: Meus interesses de pesquisa incluem Política Ambiental, Ciência de Dados, Políticas Públicas, Relações Internacionais, Crises Humanitárias.
   matter.
 education:
   courses:
-  - course: Doutorado em Ciência Política
+  - course: Graduação em Ciência Política
     institution: UFPE
     year: 2025 (previsto)
-  - course: Mestrado em Ciência Política 
-    institution: UFPE
-    year: 2020
-  - course: Graduação em Ciência de Dados
-    institution: Estácio de Sá
-    year: 2023 (previsto)
-  - course: Graduação em Ciência Política com ênfase em Relações Internacionais
-    institution: UFPE
-    year: 2017
-email: "renata.aguiar@ufpe.com"
+email: "poliana.viana@ufpe.br"
 highlight_name: true
 interests:
-- Legislativo
-- Opinião Pública
-- Estudos de gênero
-- Análise de dados
-- Programação
+- Política Ambiental
+- Ciência de Dados
+- Políticas Públicas
+- Relações Internacionais
+- Crises Humanitárias
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Graduada, Mestre e Doutoranda em Ciência Política (UFPE)
+role: Graduadanda em Ciência Política com ênfase em Relações Internacionais (UFPE)
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/RenataCavalcanti
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/renata-ma-cavalcanti
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1274106232543268
-- icon: briefcase
-  icon-pack: fa
-  link: https://cv-renata-cavalcanti.netlify.app
+  link: https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=559EC643261CB51A7115F8B9622B5D9A#
 superuser: true
 user_groups:
  - Pesquisadores
-title: Renata Cavalcanti
+title: Poliana Viana
 ---
 
-Bacharel, Mestre e doutoranda em Ciência Política pela Universidade Federal de Pernambuco (UFPE).
-
-Gosto bastante de realizar Análise de Dados na linguagem R e sei um pouco de Python. Atualmente faço parte do Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex). Já realizei trabalhos voluntários no Projeto Vamos Juntas e na ONG Elas no Poder.
-
-
-{{< icon name="earth-americas" pack="fas" >}} Confira meu {{< staticref "renatacavalcanti.com" "newtab" >}}site{{< /staticref >}}.
+Graduanda do curso de Ciência Política com ênfase em Relações Internacionais pela Universidade Federal de Pernambuco (UFPE),  membro do Observatório de Crises Internacionais (OCI - UFPE) e atuando como estagiária do Grupo de Estudos Meio Ambiente,   Política e Relações Internacionais.
 
