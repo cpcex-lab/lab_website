@@ -1,21 +1,15 @@
 ---
-bio: Meus interesses de pesquisa incluem estudos legislativos, opinião pública, gênero, análise de dados e programação.
+bio: Meus interesses de pesquisa incluem Desconsolidação da Democracia, Populismo, Política Comparada, Metodologia, Análise de Texto como Dado.
   matter.
 education:
   courses:
-  - course: Doutorado em Ciência Política
+  - course: Graduação em Ciência Política
     institution: UFPE
-    year: 2025 (previsto)
+    year: 2022
   - course: Mestrado em Ciência Política 
     institution: UFPE
-    year: 2020
-  - course: Graduação em Ciência de Dados
-    institution: Estácio de Sá
-    year: 2023 (previsto)
-  - course: Graduação em Ciência Política com ênfase em Relações Internacionais
-    institution: UFPE
-    year: 2017
-email: "renata.aguiar@ufpe.com"
+    year: 2025 (previsto)
+email: "isabela.canto@ufpe.br
 highlight_name: true
 interests:
 - Legislativo
@@ -26,30 +20,20 @@ interests:
 organizations:
 - name: UFPE CFCH DCP
   url: https://www.ufpe.br/dcp
-role: Graduada, Mestre e Doutoranda em Ciência Política (UFPE)
+role: Graduada e Mestranda em Ciência Política (UFPE)
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/RenataCavalcanti
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/renata-ma-cavalcanti
+  link: linkedin.com/in/isabela-do-canto-88457620a
 - icon: lattes
   icon_pack: ai
-  link: http://lattes.cnpq.br/1274106232543268
-- icon: briefcase
-  icon-pack: fa
-  link: https://cv-renata-cavalcanti.netlify.app
+  link: http://lattes.cnpq.br/3851805566181340
 superuser: true
 user_groups:
  - Pesquisadores
-title: Renata Cavalcanti
+title: Isabela do Canto
 ---
 
-Bacharel, Mestre e doutoranda em Ciência Política pela Universidade Federal de Pernambuco (UFPE).
+Sou mestranda no curso de Ciência Política na Universidade Federal de Pernambuco, onde também possuo graduação.
 
-Gosto bastante de realizar Análise de Dados na linguagem R e sei um pouco de Python. Atualmente faço parte do Laboratório de Ciência Política Computacional e Experimental (@lab_cpcex). Já realizei trabalhos voluntários no Projeto Vamos Juntas e na ONG Elas no Poder.
-
-
-{{< icon name="earth-americas" pack="fas" >}} Confira meu {{< staticref "renatacavalcanti.com" "newtab" >}}site{{< /staticref >}}.
-
+Sou membro do Grupo de Pesquisa Laboratório de Ciência Política Computacional e Experimental, do Grupo de Pesquisa Epistemologia e Métodos Comparados em Ciência Política e do Observatório de Crises Internacionais da Universidade Federal de Pernambuco. Minha pesquisa tem como foco o papel dos líderes populistas na democracia da América Latina. 
